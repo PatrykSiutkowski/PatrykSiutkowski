@@ -1,36 +1,44 @@
-## Hello World, Patryk Here!
-<!--
-**PatrykSiutkowski/PatrykSiutkowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello World, Patryk Here!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### About Me
-- Master's Student at the University of Portsmouth
+## About Me
+- Master's Computer Science Student at the University of Portsmouth
 - 
 
-### Currently working on:
-- Portfolio Website
-- Gesture Recognition Program
-- 
+## Currently working on:
 
-### I’m currently learning
+### Portfolio Website
 
-### I’m looking to collaborate on
+A portfolio website about myself
 
-### I’m looking for help with
+### Gesture Recognition Program
 
-### Ask me about
+A Python-based gesture recognition program that allows a computer
+to be controlled without a keyboard.
 
-### How to contact me:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:psiutkowski@gmail.com) 
+Features include:
 
-### Fun fact: ...
+- Changing monitor brightness
+- Controlling system volume
+- Putting the computer to sleep
+
+**Technologies:** Python, Computer Vision, MediaPipe
+
+## Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Technologies
+![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+## How to contact me:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:psiutkowski@gmail.com)
