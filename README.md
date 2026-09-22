@@ -4,7 +4,9 @@
 
 ## About Me
 - Master's Computer Science Student at the University of Portsmouth
-- 
+- Spend two semesters at Charles University in Prague
+- Evolutionary Algorithms enthusiast
+- Robotics and Drones enthusiast
 
 ## Currently working on:
 
@@ -39,6 +41,9 @@ Features include:
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+## Github Stats
+...
 
 ## How to contact me:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:psiutkowski@gmail.com)
