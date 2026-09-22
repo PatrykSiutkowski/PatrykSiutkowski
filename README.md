@@ -43,7 +43,12 @@ Features include:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## Github Stats
-...
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/PatrykSiutkowski/PatrykSiutkowski/output/contributions.svg"
+    alt="GitHub Contributions"
+  >
+</p>
 
 ## How to contact me:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:psiutkowski@gmail.com)
