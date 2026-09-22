@@ -1,6 +1,6 @@
 # Hello World, Patryk Here!
 
-![Profile Banner]()
+![Profile Banner](profile_banner.png)
 
 ## About Me
 - Master's Computer Science Student at the University of Portsmouth
