@@ -1,6 +1,6 @@
 # Hello World, Patryk Here
 
-![Profile Banner](profile_banner.png)
+![Profile Banner](profile_banner_2.png)
 
 ## About Me
 
