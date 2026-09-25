@@ -23,10 +23,9 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push snake to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           build_dir: dist
+          target_branch: output
         env:
-          GH_PAT: ${{ secrets.GITHUB_TOKEN }}
-          BUILD_DIR: dist
-          PUBLISH_BRANCH: output
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
