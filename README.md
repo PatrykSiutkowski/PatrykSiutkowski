@@ -54,7 +54,7 @@ Features include:
 ![Linux](https://img.shields.io/badge/Linux-22314E?style=for-the-badge&logo=linux&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-22314E?style=for-the-badge&logo=fedora&logoColor=fff)
 ![Flutter](https://img.shields.io/badge/Flutter-22314E?style=for-the-badge&logo=flutter&logoColor=fff)
-![Jupyter](https://img.shields.io/badge/Jupyter-22314E?style=for-the-badge&logo=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-22314E?style=for-the-badge&logo=jupyter&logoColor=ffffff)
 
 ### IDEs
 
