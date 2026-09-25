@@ -70,6 +70,8 @@ Features include:
 
 ...
 
+![Git Snake](https://raw.githubusercontent.com/PatrykSiutkowski/PatrykSiutkowski/output/github-contribution-grid-snake.svg)
+
 ## How to contact me
 
 [![email](https://img.shields.io/badge/Email-02829b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:psiutkowski@gmail.com)
