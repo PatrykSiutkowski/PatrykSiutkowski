@@ -70,7 +70,7 @@ Features include:
 
 ...
 
-![Git Snake](https://raw.githubusercontent.com/PatrykSiutkowski/PatrykSiutkowski/output/github-contribution-grid-snake.svg)
+<!-- ![Git Snake](https://raw.githubusercontent.com/PatrykSiutkowski/PatrykSiutkowski/output/github-contribution-grid-snake.svg) -->
 
 ## How to contact me
 
