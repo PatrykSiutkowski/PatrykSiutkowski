@@ -60,17 +60,15 @@ bg5:b3cde0
 
 ## Github Stats
 
-<!-- ![Isometric Stats](https://raw.githubusercontent.com/PatrykSiutkowski/PatrykSiutkowski/output/metrics.plugin.isocalendar.halfyear.svg) -->
-
-![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=PatrykSiutkowski&hide_border=true&background=011f4b&ring=6497b1&fire=6497b1&currStreakLabel=b3cde0&sideLabels=b3cde0&currStreakNum=b3cde0&sideNums=b3cde0&dates=b3cde0)
+![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=PatrykSiutkowski&hide_border=true&background=011f4b&ring=005b96&fire=005b96&currStreakLabel=b3cde0&sideLabels=b3cde0&currStreakNum=b3cde0&sideNums=b3cde0&dates=b3cde0)
 
 ![Git Snake](https://raw.githubusercontent.com/PatrykSiutkowski/PatrykSiutkowski/output/github-contribution-grid-snake.svg)
 
 ## Featured Repos
 
-...
+![Carousel](PatrykSiutkowski/assets/carousel.svg)
 
 ## How to contact me
 
-[![email](https://img.shields.io/badge/Email-6497b1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:psiutkowski@gmail.com)
+[![Email](https://img.shields.io/badge/Email-6497b1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:psiutkowski@gmail.com)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-6497b1?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://uk.linkedin.com/in/patryk-siutkowski-0a610b293)

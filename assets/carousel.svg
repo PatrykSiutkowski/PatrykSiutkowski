@@ -1,0 +1,75 @@
+<svg viewBox="0 0 900 210" width="300" height="210">
+  <style>
+    .track {
+      animation: scroll 10s linear infinite;
+    }
+    @keyframes scroll {
+      from { transform: translateX(0); }
+      to { transform: translateX(-1000px); }
+    }
+  </style>
+  <g class="track">
+    <rect x="0" y="8" width="400" height="190" rx="20" fill="#011f4b" stroke="#b3cde0" stroke-opacity="0.5" stroke-width="2"/>
+      <text x="22" y="42" font-family="Fira Code, monospace" font-size="18" font-weight="bold" fill="#b3cde0"> Portfolio Website </text>
+      <text x="22" y="66" font-family="Fira Code, monospace" font-size="12" fill="#b3cde0">
+        <tspan x="22" dy="0">...</tspan>
+        <tspan x="22" dy="17">...</tspan>
+        <tspan x="22" dy="17">...</tspan>
+      </text>
+    <rect x="22" y="160" width="62" height="24" rx="12" fill="none" stroke="#b3cde0" stroke-opacity="0.6" stroke-width="1.2"/>
+      <text x="53.0" y="177" text-anchor="middle" font-family="Fira Code, monospace" font-size="10.5" fill="#b3cde0">HTML</text>
+    <rect x="94" y="160" width="69" height="24" rx="12" fill="none" stroke="#b3cde0" stroke-opacity="0.6" stroke-width="1.2"/>
+      <text x="128.5" y="177" text-anchor="middle" font-family="Fira Code, monospace" font-size="10.5" fill="#b3cde0">CSS</text>
+    <rect x="173" y="160" width="80" height="24" rx="12" fill="none" stroke="#b3cde0" stroke-opacity="0.6" stroke-width="1.2"/>
+      <text x="210.5" y="177" text-anchor="middle" font-family="Fira Code, monospace" font-size="10.5" fill="#b3cde0">JavaScript</text>
+    
+    <rect x="424" y="8" width="400" height="190" rx="20" fill="#011f4b" stroke="#b3cde0" stroke-opacity="0.5" stroke-width="2"/>
+      <text x="446" y="42" font-family="Fira Code, monospace" font-size="18" font-weight="bold" fill="#b3cde0">Gesture Recognition</text>
+      <text x="446" y="66" font-family="Fira Code, monospace" font-size="12" fill="#b3cde0">
+          <tspan x="450" dy="0">...</tspan>
+          <tspan x="450" dy="17">...</tspan>
+          <tspan x="450" dy="17">...</tspan>
+      </text>
+    <rect x="446" y="160" width="69" height="24" rx="12" fill="none" stroke="#b3cde0" stroke-opacity="0.6" stroke-width="1.2"/>
+      <text x="480.5" y="177" text-anchor="middle" font-family="Fira Code, monospace" font-size="10.5" fill="#b3cde0">Python</text>
+    
+    <rect x="848" y="8" width="400" height="190" rx="20" fill="#011f4b" stroke="#b3cde0" stroke-opacity="0.5" stroke-width="2"/>
+      <text x="870" y="42" font-family="Fira Code, monospace" font-size="18" font-weight="bold" fill="#b3cde0">THIRD PROJECT</text>
+      <text x="446" y="66" font-family="Fira Code, monospace" font-size="12" fill="#b3cde0">
+          <tspan x="870" dy="0">...</tspan>
+          <tspan x="870" dy="17">...</tspan>
+          <tspan x="870" dy="17">...</tspan>
+      </text>
+    <rect x="870" y="160" width="55" height="24" rx="12" fill="none" stroke="#b3cde0" stroke-opacity="0.6" stroke-width="1.2"/>
+      <text x="897.5" y="177" text-anchor="middle" font-family="Fira Code, monospace" font-size="10.5" fill="#b3cde0">...</text>
+    <rect x="935" y="160" width="69" height="24" rx="12" fill="none" stroke="#b3cde0" stroke-opacity="0.6" stroke-width="1.2"/>
+      <text x="969.5" y="177" text-anchor="middle" font-family="Fira Code, monospace" font-size="10.5" fill="#b3cde0">...</text>
+    <rect x="1014" y="160" width="90" height="24" rx="12" fill="none" stroke="#b3cde0" stroke-opacity="0.6" stroke-width="1.2"/>
+      <text x="1059.0" y="177" text-anchor="middle" font-family="Fira Code, monospace" font-size="10.5" fill="#b3cde0">...</text>
+    
+    <rect x="1272" y="8" width="400" height="190" rx="20" fill="#011f4b" stroke="#b3cde0" stroke-opacity="0.5" stroke-width="2"/>
+      <text x="1294" y="42" font-family="Fira Code, monospace" font-size="18" font-weight="bold" fill="#b3cde0">FOURTH PROJECT</text>
+      <text x="1294" y="66" font-family="Fira Code, monospace" font-size="12" fill="#b3cde0">
+        <tspan x="1294" dy="0">...</tspan>
+        <tspan x="1294" dy="17">...</tspan>
+        <tspan x="1294" dy="17">...</tspan>
+      </text>
+    <rect x="1294" y="160" width="48" height="24" rx="12" fill="none" stroke="#b3cde0" stroke-opacity="0.6" stroke-width="1.2"/>
+      <text x="1318.0" y="177" text-anchor="middle" font-family="Fira Code, monospace" font-size="10.5" fill="#b3cde0">...</text>
+    <rect x="1352" y="160" width="90" height="24" rx="12" fill="none" stroke="#b3cde0" stroke-opacity="0.6" stroke-width="1.2"/>
+      <text x="1397.0" y="177" text-anchor="middle" font-family="Fira Code, monospace" font-size="10.5" fill="#b3cde0">...</text>
+
+    <rect x="1708" y="8" width="400" height="190" rx="20" fill="#011f4b" stroke="#b3cde0" stroke-opacity="0.5" stroke-width="2"/>
+      <text x="1730" y="42" font-family="Fira Code, monospace" font-size="18" font-weight="bold" fill="#b3cde0">Portfolio Website2</text>
+      <text x="1730" y="66" font-family="Fira Code, monospace" font-size="12" fill="#b3cde0">
+        <tspan x="1730" dy="0">...</tspan>
+        <tspan x="1730" dy="17">...</tspan>
+        <tspan x="1622" dy="17">...</tspan>
+      </text>
+    <rect x="1730" y="160" width="62" height="24" rx="12" fill="none" stroke="#b3cde0" stroke-opacity="0.6" stroke-width="1.2"/>
+      <text x="1453.0" y="177" text-anchor="middle" font-family="Fira Code, monospace" font-size="10.5" fill="#b3cde0">HTML</text>
+    <rect x="1494" y="160" width="69" height="24" rx="12" fill="none" stroke="#b3cde0" stroke-opacity="0.6" stroke-width="1.2"/>
+      <text x="128.5" y="177" text-anchor="middle" font-family="Fira Code, monospace" font-size="10.5" fill="#b3cde0">CSS</text>
+    <rect x="1473" y="160" width="80" height="24" rx="12" fill="none" stroke="#b3cde0" stroke-opacity="0.6" stroke-width="1.2"/>
+      <text x="210.5" y="177" text-anchor="middle" font-family="Fira Code, monospace" font-size="10.5" fill="#b3cde0">JavaScript</text>
+    
