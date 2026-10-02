@@ -65,11 +65,11 @@ bg5:b3cde0
 
 ![Isometric Stats](https://raw.githubusercontent.com/PatrykSiutkowski/PatrykSiutkowski/output/metrics.plugin.isocalendar.fullyear.svg)
 
+![Git Snake](https://raw.githubusercontent.com/PatrykSiutkowski/PatrykSiutkowski/output/github-contribution-grid-snake.svg)
+
 ## Featured Repos
 
 ...
-
-![Git Snake](https://raw.githubusercontent.com/PatrykSiutkowski/PatrykSiutkowski/output/github-contribution-grid-snake.svg)
 
 ## How to contact me
 
