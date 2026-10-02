@@ -62,11 +62,11 @@ bg5:b3cde0
 
 ![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=PatrykSiutkowski&hide_border=true&background=011f4b&ring=005b96&fire=005b96&currStreakLabel=b3cde0&sideLabels=b3cde0&currStreakNum=b3cde0&sideNums=b3cde0&dates=b3cde0)
 
-![Git Snake](https://raw.githubusercontent.com/PatrykSiutkowski/PatrykSiutkowski/main/assets/carousel.svg)
+![Git Snake](https://raw.githubusercontent.com/PatrykSiutkowski/PatrykSiutkowski/output/github-contribution-grid-snake.svg)
 
 ## Featured Repos
 
-![Carousel](PatrykSiutkowski/assets/carousel.svg)
+![Carousel](https://raw.githubusercontent.com/PatrykSiutkowski/PatrykSiutkowski/assets/carousel.svg)
 
 ## How to contact me
 
