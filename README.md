@@ -61,7 +61,7 @@ bg5:b3cde0
 
 ## Github Stats
 
-![Stats](https://raw.githubusercontent.com/PatrykSiutkowski/PatrykSiutkowski/output/contributions.svg)
+<!-- ![Stats](https://raw.githubusercontent.com/PatrykSiutkowski/PatrykSiutkowski/output/contributions.svg) -->
 
 ![Isometric Stats](https://raw.githubusercontent.com/PatrykSiutkowski/PatrykSiutkowski/output/metrics.plugin.isocalendar.fullyear.svg)
 
