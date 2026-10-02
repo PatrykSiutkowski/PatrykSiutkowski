@@ -10,7 +10,6 @@ bg4:6497b1
 bg5:b3cde0
  -->
 
-<!-- ![Profile Banner](profile_banner_2.png) -->
 ![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=25:011f4b,50:03396c,75:005b96,100:6497b1&height=300&section=header&text=Patryk%20Siutkowski&fontSize=42&fontColor=FFFFFF&animation=fadeOut&fontAlignY=50&desc=Hello%20There&descSize=18&descColor=F5C6E0)
 
 ## About Me
@@ -61,9 +60,9 @@ bg5:b3cde0
 
 ## Github Stats
 
-<!-- ![Stats](https://raw.githubusercontent.com/PatrykSiutkowski/PatrykSiutkowski/output/contributions.svg) -->
+<!-- ![Isometric Stats](https://raw.githubusercontent.com/PatrykSiutkowski/PatrykSiutkowski/output/metrics.plugin.isocalendar.halfyear.svg) -->
 
-![Isometric Stats](https://raw.githubusercontent.com/PatrykSiutkowski/PatrykSiutkowski/output/metrics.plugin.isocalendar.fullyear.svg)
+![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=PatrykSiutkowski&hide_border=true&background=011f4b&ring=6497b1&fire=6497b1&currStreakLabel=b3cde0&sideLabels=b3cde0&currStreakNum=b3cde0&sideNums=b3cde0&dates=b3cde0)
 
 ![Git Snake](https://raw.githubusercontent.com/PatrykSiutkowski/PatrykSiutkowski/output/github-contribution-grid-snake.svg)
 
