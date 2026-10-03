@@ -66,7 +66,7 @@ bg5:b3cde0
 
 ## Featured Repos
 
-![Carousel](https://raw.githubusercontent.com/PatrykSiutkowski/PatrykSiutkowski/assets/carousel.svg)
+![Carousel](https://raw.githubusercontent.com/PatrykSiutkowski/PatrykSiutkowski/main/assets/carousel.svg)
 
 ## How to contact me
 
