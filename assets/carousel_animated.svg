@@ -1,5 +1,8 @@
-<svg viewBox="0 0 1250 210" width="1250" height="210" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 900 210" width="900" height="210" xmlns="http://www.w3.org/2000/svg">
   <style>
+    .track {
+      animation: scroll 10s linear infinite;
+    }
     @keyframes scroll {
       from { transform: translateX(0); }
       to { transform: translateX(-1000px); }
@@ -45,6 +48,34 @@
     <rect x="935" y="160" width="69" height="24" rx="12" fill="none" stroke="#b3cde0" stroke-opacity="0.6" stroke-width="1.2"/>
       <text x="969.5" y="177" text-anchor="middle" font-family="Fira Code, monospace" font-size="10.5" fill="#b3cde0">...</text>
     <rect x="1014" y="160" width="90" height="24" rx="12" fill="none" stroke="#b3cde0" stroke-opacity="0.6" stroke-width="1.2"/>
-      <text x="1059.0" y="177" text-anchor="middle" font-family="Fira Code, monospace" font-size="10.5" fill="#b3cde0">...</text>  
-   </g>
+      <text x="1059.0" y="177" text-anchor="middle" font-family="Fira Code, monospace" font-size="10.5" fill="#b3cde0">...</text>
+    
+    <!-- PROJECT NO. 4 -->
+    <rect x="1272" y="8" width="400" height="190" rx="20" fill="#011f4b" stroke="#b3cde0" stroke-opacity="0.5" stroke-width="2"/>
+      <text x="1294" y="42" font-family="Fira Code, monospace" font-size="18" font-weight="bold" fill="#b3cde0">FOURTH PROJECT</text>
+      <text x="1294" y="66" font-family="Fira Code, monospace" font-size="12" fill="#b3cde0">
+        <tspan x="1294" dy="0">...</tspan>
+        <tspan x="1294" dy="17">...</tspan>
+        <tspan x="1294" dy="17">...</tspan>
+      </text>
+    <rect x="1294" y="160" width="48" height="24" rx="12" fill="none" stroke="#b3cde0" stroke-opacity="0.6" stroke-width="1.2"/>
+      <text x="1318.0" y="177" text-anchor="middle" font-family="Fira Code, monospace" font-size="10.5" fill="#b3cde0">...</text>
+    <rect x="1352" y="160" width="90" height="24" rx="12" fill="none" stroke="#b3cde0" stroke-opacity="0.6" stroke-width="1.2"/>
+      <text x="1397.0" y="177" text-anchor="middle" font-family="Fira Code, monospace" font-size="10.5" fill="#b3cde0">...</text>
+
+     <!-- PROJECT NO. 1 REPEATED -->
+    <rect x="1696" y="8" width="400" height="190" rx="20" fill="#011f4b" stroke="#b3cde0" stroke-opacity="0.5" stroke-width="2"/>
+      <text x="1718" y="42" font-family="Fira Code, monospace" font-size="18" font-weight="bold" fill="#b3cde0"> Portfolio Website </text>
+      <text x="1718" y="66" font-family="Fira Code, monospace" font-size="12" fill="#b3cde0">
+        <tspan x="1718" dy="0">Personal Website about myself.</tspan>
+        <tspan x="1718" dy="17">Learn about me, my backgorund and more.</tspan>
+        <tspan x="1718" dy="17">Download my CV</tspan>
+      </text>
+    <rect x="1718" y="160" width="62" height="24" rx="12" fill="none" stroke="#b3cde0" stroke-opacity="0.6" stroke-width="1.2"/>
+      <text x="1718.0" y="177" text-anchor="middle" font-family="Fira Code, monospace" font-size="10.5" fill="#b3cde0">HTML</text>
+    <rect x="1846" y="160" width="69" height="24" rx="12" fill="none" stroke="#b3cde0" stroke-opacity="0.6" stroke-width="1.2"/>
+      <text x="1846" y="177" text-anchor="middle" font-family="Fira Code, monospace" font-size="10.5" fill="#b3cde0">CSS</text>
+    <rect x="1918" y="160" width="80" height="24" rx="12" fill="none" stroke="#b3cde0" stroke-opacity="0.6" stroke-width="1.2"/>
+      <text x="1918" y="177" text-anchor="middle" font-family="Fira Code, monospace" font-size="10.5" fill="#b3cde0">JavaScript</text>
+    </g>
 </svg>
